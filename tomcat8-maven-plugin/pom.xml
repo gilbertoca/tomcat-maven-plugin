@@ -131,18 +131,18 @@
     <dependency>
       <groupId>org.apache.tomcat</groupId>
       <artifactId>tomcat-juli</artifactId>
-      <version>${tomcat8Version}</version>
+      <version>8.5.57</version>
     </dependency>
 
     <dependency>
       <groupId>org.apache.tomcat.embed</groupId>
       <artifactId>tomcat-embed-logging-juli</artifactId>
-      <version>${tomcat8Version}</version>
+      <version>8.0.14</version>
     </dependency>
     <dependency>
       <groupId>org.apache.tomcat.embed</groupId>
       <artifactId>tomcat-embed-logging-log4j</artifactId>
-      <version>${tomcat8Version}</version>
+      <version>8.0.14</version>
     </dependency>
 
     <dependency>
